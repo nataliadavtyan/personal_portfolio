@@ -20,11 +20,11 @@ The project is built using:
 * Made the website responsive by using the relative units and media queries.
 * The menu is used to navigate to different sections of the page.
 
-## Acknowledgements
-Personal portfolio is a solo project that was part of [the Responsive Web Design Certification at freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/).
-
 ## Project status
 The project is complete.
+
+## Acknowledgements
+Personal portfolio is a solo project that was part of [the Responsive Web Design Certification at freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/).
 
 ## Contact
 Created by [Natalia Davtyan](https://github.com/nataliadavtyan)
