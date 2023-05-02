@@ -8,7 +8,7 @@ This is a one-page portfolio and the menu can be used to jump to the desired sec
 ## Demo
 ![The demonstration](./personal-portfolio.gif)
 
-Test it on Netlify: https://delightful-semolina-bee9bb.netlify.app/
+Test it on Netlify: https://personal-portfolio-natalia-davtyan.netlify.app/
 
 ## Technologies
 The project is built using:
